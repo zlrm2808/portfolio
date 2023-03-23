@@ -1037,6 +1037,7 @@ section:nth-of-type(5) form {
 
 section:nth-of-type(5) input[type=text],
 section:nth-of-type(5) input[type=email],
+section:nth-of-type(5) input[type=asunto],
 section:nth-of-type(5) textarea {
     background: #1e242c;
     border: 0;
